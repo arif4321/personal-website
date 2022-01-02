@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+    font-family: 'Yeseva One', cursive;
+
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: #FF1493;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+section{
+    height: 600px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #663399;
+    padding: 10px 20px;
+    border-radius: 5%;
+    color: white;
+   
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latesth2{
+    text-align: center;
+}
+.latest-work img{
+   width: 20%;
+   padding:5%;
+}
+.clint-says{
+    text-align: center;
+}
+#box-design{
+    background-color: tomato;
+    width: 250px;
+    text-align: center;
+   
+
+}
